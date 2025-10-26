@@ -82,3 +82,14 @@ Python model & visualizations
 Power BI interactive dashboard
 
 2-page summary report
+🧠 Future Enhancements
+
+Implement deep learning models (e.g., Neural Networks) for better accuracy.
+
+Automate dashboard updates using Power BI API or Python scripts.
+
+Integrate customer churn alerts with CRM systems.
+
+💬 Conclusion
+
+This project demonstrates how data-driven insights can transform business strategies in the telecom industry. With the combination of predictive modeling and visualization, companies can proactively retain customers, improve satisfaction, and boost revenue.
